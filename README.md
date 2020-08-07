@@ -1,2 +1,0 @@
-# cs131b_python_programming
-This course covers programming fundamentals using the Python language. Python is interpreted, interactive, and object-oriented. Recommended for general-purpose programming, system administration, or web programming. Topics include classes, objects, inheritance, polymorphism, design and implementation of abstract data types, dictionaries, lists, list comprehensions, files, modules, and mutable and immutable types.
